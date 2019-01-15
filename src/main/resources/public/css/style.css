@@ -36,7 +36,7 @@ input[type="submit"]:hover{
     border-radius: 15px;
 }
 #form-answer span{
-    width:80%
+    width:80%;
     padding:8px;
     margin:10px auto;
     color:red;
